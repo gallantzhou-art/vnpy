@@ -1,0 +1,3 @@
+[submodule "vnpy_private"]
+	path = vnpy_private
+	url = https://github.com/gallantzhou-art/vnpy_private.git
